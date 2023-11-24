@@ -247,7 +247,6 @@ class Game(tk.Frame):
 
 
 def main():
-    print("hi from local remote")
     Game()
 
 
